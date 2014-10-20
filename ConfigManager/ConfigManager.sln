@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigManager", "ConfigManager\ConfigManager.csproj", "{5CEAA448-912A-4E63-A271-64765E87DA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultConfigGenerator", "DefaultConfigGenerator\DefaultConfigGenerator.csproj", "{1B03C56D-0421-4E3A-AF11-75B80FADCAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CEAA448-912A-4E63-A271-64765E87DA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEAA448-912A-4E63-A271-64765E87DA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEAA448-912A-4E63-A271-64765E87DA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEAA448-912A-4E63-A271-64765E87DA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B03C56D-0421-4E3A-AF11-75B80FADCAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B03C56D-0421-4E3A-AF11-75B80FADCAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B03C56D-0421-4E3A-AF11-75B80FADCAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B03C56D-0421-4E3A-AF11-75B80FADCAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
